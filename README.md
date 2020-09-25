@@ -41,7 +41,61 @@ It is encouraged to use latest version of Visual Studio & use SQL Server Managem
 1.  Clone or download this repo.
 2.  Now Open Visual Studio. File -> Open -> Project Solution
 
-		<img src="image/1.png"/>
+   <img src="image/1.png" width="800"/>
+   
+3. Select Solution file  .Open
+
+    <img src="image/2.png" width="800"/>
+    
+4. Now open SSMS ( SQL SERVER MANAGEMENT STUDIO) . Connect to your Database engine. Add the SQL **Shopping.mdf & Shopping.ldf** given in SQL folder. 
+   Copy Data base Server name 
+   
+   <img src="image/4.png" width="800"/>
+   
+5. Now open Server Explorer .Under Data connection  X  means not connected. So delete it.  
+   
+   <img src="image/6.png" width="800"/>
+   
+6. Now click the Set new connection icon. Give server name  & database name 
+    
+    <img src="image/7.png" width="800"/>
+    
+7. Connection is green now. Means its connected successfully.  
+
+     <img src="image/8.png" width="800"/>
+     
+8.  Now go to **Project->Settings->BeautyPainter Settings** :  Type Choose :Connection String. Now using the button give  
+    Server name  & database again. Click ok.  A Connection string is provided there.     
+    
+    <img src="image/5.png" width="800"/>
+    
+ 9.  Final Step. Now Go to **Solution Explorer-> Web Config.** Chanage accordingly to your server name in the following line .
+    
+   <img src="image/9.png" width="800"/>
+    
+ 10. You are Good to go. Run the project in yur default browser.
+ 
+ 
+ # Project Details & Contribution:
+   Ahsanullah University of Science and Technology, # Course 3200
+   
+    
+   **_______________Contributers_______________**
+   
+ Sabbir Ahmed:  BackEnd Codes & Design
+
+(17.01.04.011)
+
+	
+Jarin Anjum :  Database,ImageProcessing.Design
+
+(17.01.04.022)
+
+	
+Lamia Anjum :  Database,ImageProcessing.Design
+
+(17.01.04.023)
+
    
 
 
