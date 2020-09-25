@@ -39,8 +39,9 @@ This is a ASP.net and Sql server based platform.Main goal is to provide a user,a
 It is encouraged to use latest version of Visual Studio & use SQL Server Management Studio 12
 
 1.  Clone or download this repo.
-2. 	Now Open Visual Studio. File -> Open -> Project Solution
-		<img src="img/f1.png"/>
+2.  Now Open Visual Studio. File -> Open -> Project Solution
+
+		<img src="image/1.png"/>
    
 
 
