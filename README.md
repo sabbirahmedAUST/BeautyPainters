@@ -23,7 +23,17 @@ This is a ASP.net and Sql server based platform.Main goal is to provide a user,a
      
 # Some ScreenShots of Website
 
-<img src="img/s1.jpg" width="300" />   <img src="img/s2.jpeg" width="300" />    <img src="img/s3.jpeg" width="300" />
+<img src="image/s1.png" width="500"/>
+
+<img src="image/s3.png" width="500"/>
+
+<img src="image/s4.png" width="500"/>
+
+<img src="image/s5.png" width="500"/>
+
+<img src="image/s2.png" width="500"/>
+
+
 
 # Future Wroks:
     (*)Add more dynamic fealtures & make it more responsive as possible.
