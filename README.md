@@ -1,10 +1,10 @@
 # BeautyPainters
 BeautyPainters is website where you can find various makeup iteams.Go, visit & Buy.
 
-# What does this do?
+### What does this do?
 This is a [ASP.net][asp] and Sql server based platform.Main goal is to provide a user,admin experince to run a online based shopping platform.Here Makeup based iteams are sold.Boh user,Admin & their corresponding parts are being handled here.
 
-# Project Features:
+### Project Features:
 	 * User & Admin Login
   
 	 * Admin Panel: its allows to add Admin, Update,Insert & Delete Product
@@ -17,12 +17,15 @@ This is a [ASP.net][asp] and Sql server based platform.Main goal is to provide a
 	 * User can Login/Website can get addition info from Facebook/ twitter/Gmail.User can also commment/Share the product through FB as well.
      
 	 * CART part is done user friendly. User can customize their cart product add/ delete product as they want. Place order, Give locations, See previous orders as well.
-     
-# Some ScreenShots of Website
+ 
+### Some ScreenShots of Website
 <p align="center">
 	
 <img src="image/s1.png" width="500"/> 
-	 <br />
+	</p>
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+	<p align="center">
 <img src="image/s3.png" width="500"/>
  <br />
 <img src="image/s4.png" width="500"/>
@@ -30,18 +33,21 @@ This is a [ASP.net][asp] and Sql server based platform.Main goal is to provide a
 <img src="image/s5.png" width="500"/>
  <br />
 <img src="image/s2.png" width="500"/>
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->	
 </p>
 
-
-# Future Wroks
+### Future Wroks
 
     * Add more dynamic fealtures & make it more responsive as possible.
     * Use Sceams to be more dynamic.
     * Add mobile verification of customers.
     * Online Payement.
 ---
-# Setup to run the project
-
+### Setup to run the project
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+	
 It is encouraged to use latest version of Visual Studio & use SQL Server Management Studio 12
 
 1.  Clone or download this repo.
@@ -81,6 +87,12 @@ It is encouraged to use latest version of Visual Studio & use SQL Server Managem
        </p>
  10. You are Good to go. Run the project in yur default browser.
  
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+---
+
+
 [asp]: https://dotnet.microsoft.com/apps/aspnet 
 
    
